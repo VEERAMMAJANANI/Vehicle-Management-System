@@ -1,0 +1,28 @@
+{
+    "vehicles": {
+        "1": {
+            "number": "1",
+            "Brand": "BMW",
+            "Type": "Car",
+            "Rent": 45000.0,
+            "available": true
+        },
+        "2": {
+            "number": "2",
+            "Brand": "Duke",
+            "Type": "Bike",
+            "Rent": 5000.0,
+            "available": true
+        }
+    },
+    "customers": {
+        "101": {
+            "customername": "janani",
+            "rent_vehicle": null
+        },
+        "102": {
+            "customername": "priya",
+            "rent_vehicle": null
+        }
+    }
+}
